@@ -1,0 +1,10 @@
+*.log
+
+src/input/*
+src/output/*
+
+
+*.sql
+!*template.sql
+
+files.txt
